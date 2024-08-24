@@ -1,4 +1,4 @@
-Hi there! 👋 I'm Mridula NArang
+Hi there! 👋 I'm Mridula Narang
 
 I'm a passionate and driven **Computer Science graduate** with a strong foundation in **AI/ML, web development, and mobile app creation**. With a B.Tech in Computer Science and Engineering I've cultivated a deep love for technology and its potential to make meaningful impacts. <br>
 

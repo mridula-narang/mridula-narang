@@ -8,7 +8,7 @@ I'm a passionate and driven **Software Developer** with a strong foundation in *
 - **Healthcare Optimizer:** Through the development of a **Hospital Management System**, I've streamlined patient care processes, enhancing the user experience across multiple hospital branches. <br>
 
 🛠️ Technical Proficiencies: <br>
-- **Programming Languages:** Python, HTML5, CSS, C#, <br>
+- **Programming Languages:** Python, HTML5, CSS, C# <br>
 - **Frameworks & Tools:** Django, Node.js, Flutter, Librosa, MediaPipe, Bootstrap,.NET <br>
 - **Database Management:** MongoDB, MySQL, Firebase <br>
 - **Other Skills:** REST API development, Dynamic Time Warping, Digital Signal Processing, and AI/ML algorithms. <br>

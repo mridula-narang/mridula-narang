@@ -8,6 +8,6 @@ A blank screen transforms into something powerful with just the right incantatio
 
 Because sometimes, *whether you believe or not is more important than whether it is real or not.*  
 
-💡 I build. I break. I learn. I create. And in the process, I turn **impossible into reality**.  
+💡 **I build. I break. I learn. I create.** And in the process, I turn **impossible into reality**.  
 
 👀 Stick around—there’s always a new spell in the making.  
